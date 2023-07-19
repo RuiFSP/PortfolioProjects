@@ -1,4 +1,4 @@
-# Project Showcase - Rui Pinto
+# Project Showcase - Rui Pinto (under construction)
 
 Welcome to my project showcase! This README file provides a brief overview of the project, highlighting my skills and 
 accomplishments. Please refer to the relevant sections below for more detailed information.
