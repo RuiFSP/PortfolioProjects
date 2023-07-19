@@ -1,0 +1,15 @@
+Install:
+
+	SQL Server Management Studio (SSMS):
+		https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+	
+	SQL Server Express:
+		https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+Notes for potencial errors:
+
+	The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine
+
+	https://stackoverflow.com/questions/9943065/the-microsoft-ace-oledb-12-0-provider-is-not-registered-on-the-local-machine
+	
+	After the recommended install, you should be able to import excel files
