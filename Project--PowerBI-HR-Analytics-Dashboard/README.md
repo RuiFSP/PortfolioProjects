@@ -12,7 +12,7 @@ more interactive & useful.
 - Power BI
 
 ## Project Structure
-- In this project we used data from [HRDataset](https://github.com/RuiFSP/PortfolioProjects/blob/main/Project-HR-Analytics-Dashboard-PowerBI/data/HRDataset.csv)
+- In this project we used data from [HRDataset](https://github.com/RuiFSP/PortfolioProjects/blob/main/Project-PowerBI-HR-Analytics-Dashboard/data/HRDataset.csv)
 
 ## Installation and Setup
 - [Install PowerBI](https://powerbi.microsoft.com/en-us/downloads/)
