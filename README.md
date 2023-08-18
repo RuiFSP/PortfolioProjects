@@ -10,7 +10,7 @@ project management, and creative thinking.
 
 ## Features and Highlights
 - **Project 1:** [SQL-DATA-EXPLORATION](Project-SQL-DATA-EXPLORATION)
-- **Feature x:** [HR-Analytics-Build an HR dashboard using PowerBI](Project-HR-Analytics-Build an HR dashboard using PowerBI)
+- **Feature 2:** [HR-Analytics-Build an HR dashboard using PowerBI](Project-HR-Analytics-Build an HR dashboard using PowerBI)
 - **Feature x:** [Future project x]()
 - **Feature x:** [Future project x]()
 - **Feature x:** [Future project x]()
