@@ -8,6 +8,11 @@ In the final tasks, we will create an employee detail page that will provide you
 about any employee with just a click. We will also explore buttons, themes, slicers & filters to make the dashboard 
 more interactive & useful.
 
+
+![page1.PNG](img%2Fpage1.PNG)
+![page2.PNG](img%2Fpage2.PNG)
+
+
 ## Technologies Used
 - Power BI
 
