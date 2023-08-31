@@ -11,13 +11,16 @@ project management, and creative thinking.
 ## Features and Highlights
 - **Project 1:** [SQL-DATA-EXPLORATION](Project-SQL-DATA-EXPLORATION)
 - **Project 2:** [POWER-BI-HR-Analytics-Dashboard](Project-PowerBI-HR-Analytics-Dashboard)
-- **Feature x:** [Future project x]()
+- **Feature x:** [WEBAPP-DATA-ANALYTICS-STREAMLIT-PYTHON](Project-DS-STREAMLIT-PYTHON)
 - **Feature x:** [Future project x]()
 - **Feature x:** [Future project x]()
 - **Feature x:** [Future project x]()
 
-## Technologies Used
+## Technologies, Libraries, Framworks Used
 - SQL
 - PowerBI
+- Python
+- Pandas, Matplotlib, Numpy, Plotly, Pydeck
+- Streamlite
 
 Thank you for taking the time to explore my project showcase. I hope you find it informative and engaging.

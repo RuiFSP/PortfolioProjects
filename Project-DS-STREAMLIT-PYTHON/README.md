@@ -42,7 +42,7 @@ Welcome to the Motor Vehicle Collisions Analysis Dashboard, a Streamlit-powered 
 - [Plottly Express](https://plotly.com/python/plotly-express/)
 
 ## Data
-- In this project we used data from [Motor_Vechiles_Dataset](data\Motor_Vehicle_Collisions_-_Crashes.csv)
+- In this project we used data from [Sample Motor_Vechiles_Dataset](data\sample_file.csv)
 
 ## How to Use
 * Clone the repository: git clone 
