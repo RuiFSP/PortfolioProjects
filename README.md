@@ -10,13 +10,13 @@ project management, and creative thinking.
 
 ## Features and Highlights
 - **Project 1:** [SQL-DATA-EXPLORATION](Project-SQL-DATA-EXPLORATION)
-- **Project 2:** [POWER-BI-HR-Analytics-Dashboard](Project-PowerBI-HR-Analytics-Dashboard)
-- **Feature x:** [WEBAPP-DATA-ANALYTICS-STREAMLIT-PYTHON](Project-DS-STREAMLIT-PYTHON)
+- **Project 2:** [POWERBI-HR-ANALYTICS-DASHBOARD](Project-PowerBI-HR-Analytics-Dashboard)
+- **Project 3:** [WEBAPP-DATA-ANALYTICS-STREAMLIT-PYTHON](Project-DS-STREAMLIT-PYTHON)
 - **Feature x:** [Future project x]()
 - **Feature x:** [Future project x]()
 - **Feature x:** [Future project x]()
 
-## Technologies, Libraries, Framworks Used
+## Technologies, Libraries, Frameworks Used
 - SQL
 - PowerBI
 - Python
